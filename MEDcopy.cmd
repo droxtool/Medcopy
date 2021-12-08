@@ -1,13 +1,11 @@
 @echo off &setlocal enabledelayedexpansion
 title Medcopy-drox
-::more power to antgsm.com
 mode 100,5 >nul
 set v=http://www.mediafire.com
 set _v=n4y19qg74xt4mg8
 :start
 color 2f
 ::created by drox
-::for donation gcash 09451034299
 title Medcopy-drox [Paste whole link inside the console]  [Enter letter m for manual]
 cls     &set __v=
 set /p __v="Enter link address here: "
